@@ -7,3 +7,4 @@ practice problems, a speed contest, or to challenge each other."
 
 
 check out for more information:
+https://adventofcode.com/2022/about
